@@ -1,0 +1,63 @@
+.box1{
+    width: 280px;
+    border-right: 2px solid;
+    float: left;
+    height: 393px;
+    position: relative;
+}
+#sarlavha{
+    margin-left: 125px;
+}
+.box{
+    width: 800px;
+    height: 600px;
+    
+}
+
+.box2{
+    width: 280px;
+    float: left;
+    margin-left: 20px;
+}
+.box1 .position{
+    position: absolute;
+    right: 0; 
+    margin-right: 20px;  
+}
+
+#name{
+    width: 70px;
+    margin-left: 50px;
+}
+
+#name1{
+    width: 70px;
+}
+
+#PP{
+    width: 100px;
+}
+
+#fba{
+    width: 253px;
+}
+
+#cw{
+    width: 253px;
+}
+
+#cd{
+    width: 253px;
+}
+#cfp{
+    width: 253px;
+}
+#cth{
+    width: 253px;
+}
+#clh{
+    width: 253px;
+}
+#ag{
+    width: 253px;
+}
